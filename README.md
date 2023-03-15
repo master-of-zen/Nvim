@@ -1,0 +1,2 @@
+# Nvim
+My NVchad config
